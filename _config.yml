@@ -103,5 +103,8 @@ theme: tree
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/vandyzhou/vandyzhou.github.io.git
-  branch: master
+  repo: 
+    github: 
+      url: https://github.com/vandyzhou/vandyzhou.github.io.git
+      branch: master
+      token: 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
