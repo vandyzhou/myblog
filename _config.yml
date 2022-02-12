@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: VandyZHOU
+title: 一梦想佳
 subtitle: ''
 description: ''
 keywords:
-author: VandyZHOU
+author: 一梦想佳
 language: en
 timezone: ''
 
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true # 开启相对引用
 relative_link: false
 future: true
 highlight:
